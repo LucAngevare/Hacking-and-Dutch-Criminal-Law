@@ -1,0 +1,49 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bell et~al.(2004)Bell, Loader, Pleace, and Schuler]{Bell2004-pm}
+David~J Bell, Brian~D Loader, Nicholas Pleace, and Douglas Schuler.
+\newblock \emph{Cyberculture: The Key Concepts}.
+\newblock Routledge, July 2004.
+
+\bibitem[Burruss et~al.(2013)Burruss, Bossler, and Holt]{Burruss2013-uw}
+George~W Burruss, Adam~M Bossler, and Thomas~J Holt.
+\newblock Assessing the mediation of a fuller social learning model on low
+  {Self-Control's} influence on software piracy, 2013.
+
+\bibitem[Gardiner(1958)]{Gardiner1958-we}
+Gerald Gardiner.
+\newblock {THE} {PURPOSES} {OF} {CRIMINAL} {PUNISHMENT*}, 1958.
+
+\bibitem[Hay and Ray(2020)]{Hay2020-an}
+Carter Hay and Katherine Ray.
+\newblock General strain theory and cybercrime, 2020.
+
+\bibitem[Higgins and Makin(2004)]{Higgins2004-jy}
+George~E Higgins and David~A Makin.
+\newblock Self-control, deviant peers, and software piracy.
+\newblock \emph{Psychol. Rep.}, 95\penalty0 (3 Pt 1):\penalty0 921--931,
+  December 2004.
+
+\bibitem[Rogers(2001)]{Rogers2001-jw}
+Marcus~K Rogers.
+\newblock \emph{A Social Learning Theory and Moral Disengagement Analysis of
+  Criminal Computer Behavior: An Exploratory Study}.
+\newblock 2001.
+
+\bibitem[voor~de Statistiek(2019)]{CBS2019-ab}
+Centraal~Bureau voor~de Statistiek.
+\newblock Slachtofferschap cybercrime naar leeftijd.
+\newblock \emph{CBS}, 2019.
+
+\bibitem[Wilshusen(2015)]{Wilshusen2015-rm}
+Gregory~C Wilshusen.
+\newblock \emph{Federal Information Security: Agencies Need to Correct
+  Weaknesses and Fully Implement Security Programs}.
+\newblock November 2015.
+
+\end{thebibliography}
